@@ -1,4 +1,4 @@
-# Hệ Thống Quản Lý Lớp Học Gia Sư — Bản Đầy Đủ (Frontend + Backend)
+# Hệ Thống Quản Lý Lớp Học Gia Sư 
 
 Đây là bộ đầy đủ gồm **2 phần** cần chạy cùng lúc:
 - `tutor-backend/` — máy chủ xử lý dữ liệu (Node.js + Express + SQLite)
